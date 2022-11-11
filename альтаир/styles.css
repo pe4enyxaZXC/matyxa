@@ -1,0 +1,41 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url('фонкосмос.jpg');
+    background-size: cover;
+}
+p{
+    text-align: center;
+color: rgb(45, 166, 182);
+font-size: 1px;
+    
+}
+.az{
+    width: 500px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
+
+.btn{
+    border: 1px solid black;
+padding: 10px 20px;
+margin-left: 100px;
+color: white;
+background-color: black;
+text-decoration: none;
+border-radius: 25px;
+position:absolute;
+top:640px;
+left:30px;
+}
+
+
+
+
+
+
+
+
+
+
